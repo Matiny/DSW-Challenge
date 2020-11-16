@@ -94,26 +94,26 @@
 		A4EDE197255F17290097D1C9 /* DSWProject */ = {
 			isa = PBXGroup;
 			children = (
-				A4EDE198255F17290097D1C9 /* AppDelegate.swift */,
-				A4EDE19A255F17290097D1C9 /* SceneDelegate.swift */,
 				A4EDE1AE255F19170097D1C9 /* Scenario1.swift */,
 				A4EDE19C255F172A0097D1C9 /* Scenario2.swift */,
 				A49B7DD025620AA3006F01A4 /* Scenario3.swift */,
 				A4F1C56C2560A6010015F050 /* MockData.json */,
-				A4F1C5642560925B0015F050 /* Code Challenge */,
-				A4EDE19E255F172A0097D1C9 /* Main.storyboard */,
-				A4EDE1A1255F172F0097D1C9 /* Assets.xcassets */,
-				A4EDE1A3255F172F0097D1C9 /* LaunchScreen.storyboard */,
 				A4EDE1A6255F172F0097D1C9 /* Info.plist */,
+				A4F1C5642560925B0015F050 /* Others */,
 			);
 			path = DSWProject;
 			sourceTree = "<group>";
 		};
-		A4F1C5642560925B0015F050 /* Code Challenge */ = {
+		A4F1C5642560925B0015F050 /* Others */ = {
 			isa = PBXGroup;
 			children = (
+				A4EDE198255F17290097D1C9 /* AppDelegate.swift */,
+				A4EDE19A255F17290097D1C9 /* SceneDelegate.swift */,
+				A4EDE19E255F172A0097D1C9 /* Main.storyboard */,
+				A4EDE1A1255F172F0097D1C9 /* Assets.xcassets */,
+				A4EDE1A3255F172F0097D1C9 /* LaunchScreen.storyboard */,
 			);
-			path = "Code Challenge";
+			path = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
