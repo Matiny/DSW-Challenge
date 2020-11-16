@@ -1,0 +1,23 @@
+{
+    "products": [
+        {
+            "sku": "12345",
+            "displayName": "Winter Boot",
+            "price": "54.99",
+            "quantity": 4
+        }
+    ],
+    "promos": [
+        {
+            "code": "SUMMER2020",
+            "description": "$5 off any item!",
+            "value": "5"
+        }
+    ],
+    "summary": {
+        "subtotal": "54.99",
+        "tax": "3.50",
+        "discounts": "5",
+        "total": "53.49"
+    }
+}
